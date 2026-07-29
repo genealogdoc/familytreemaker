@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://familytreemaker.readthedocs.io/en/latest/
